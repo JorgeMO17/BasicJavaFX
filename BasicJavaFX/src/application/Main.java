@@ -35,6 +35,8 @@ public class Main extends Application {
 		stage.setScene(new Scene(mypane));
 		stage.show();
 	}
+	
+	private String hola = "aslkd";
 
 	// la clase controladora que añade un efecto a la imagen
 	class SetBlur {
